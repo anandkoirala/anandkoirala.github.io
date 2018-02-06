@@ -1,2 +1,3 @@
 # anandkoirala.github.io
-Deep learning tutorials
+links and tutorials that worked for me to setup deep learning architectures..
+Soon i will be adding YOLO.... 
