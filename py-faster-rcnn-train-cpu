@@ -1,0 +1,10 @@
+Compiling and running on cpu mode: follow this link https://chunml.github.io/ChunML.github.io/project/Running-Faster-RCNN-Ubuntu/
+now you would be able to run demo
+to train py-faster-rcnn using cpu mode
+go to train_net.py file and towards the end comment two lines under #set up caffe 
+and add this line: caffe.set_mode_cpu()
+
+
+
+All done now you can use the standard gpu command used for training and whatever argument for gpu it will ignore and turn cpu mode on..
+Cheers!
